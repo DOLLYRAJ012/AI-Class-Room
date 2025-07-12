@@ -1,1 +1,1 @@
-https://colab.research.google.com/github/openvinotoolkit/openvino_notebooks/blob/latest/notebooks/openvino-api/openvino-api.ipynb
+https://colab.research.google.com/gist/DOLLYRAJ012/5bc71270e7bcff7b714ced81ca9233c7/openvino-api.ipynb#scrollTo=cdfd726a
